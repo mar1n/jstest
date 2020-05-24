@@ -1,0 +1,26 @@
+{
+  "name": "testchai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "lodash": "^4.17.15",
+    "mocha": "^7.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mar1n/jsUnittesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mar1n/jsUnittesting/issues"
+  },
+  "homepage": "https://github.com/mar1n/jsUnittesting#readme"
+}
